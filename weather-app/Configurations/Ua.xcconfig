@@ -1,0 +1,3 @@
+
+ROOT_URL = https:/$()/www.metaweather.com/
+APP_NAME = ED Weather(UA)
